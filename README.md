@@ -1,2 +1,2 @@
 # job_ProcessamentoDeImagens
-Matéria 6ºP Ciencia da Computação, Unifeg
+Matéria 6ºP Ciência da Computação, Unifeg
